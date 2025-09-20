@@ -6,8 +6,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanay-errorcode&show_icons=true&theme=radical&locale=en" alt="tanay-errorcode" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanay-errorcode&theme=tokyonight" alt="tanay-errorcode" /></p>
-<!--
-**Tanay-ErrorCode/Tanay-ErrorCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![Views](https://komarev.com/ghpvc/?username=Tanay-ErrorCode&label=PROFILE+VIEWS&color=ff69b4&style=for-the-badge)
 
 Here are some ideas to get you started:
 
